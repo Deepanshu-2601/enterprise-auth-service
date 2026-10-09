@@ -1,5 +1,6 @@
 fastapi
-uvicorn
-sqlalchemy
-python-jose[cryptography]
-pydantic
+   uvicorn
+   sqlalchemy
+   python-jose[cryptography]
+   pydantic
+   email-validator
