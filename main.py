@@ -4,9 +4,9 @@ from jose import JWTError, jwt
 from sqlalchemy.orm import Session
 from typing import Optional, cast
 
-from app.database import Base, engine, get_db
-from app.models import UserDB, UserRegister, UserLogin, TokenResponse
-from app.security import hash_password, verify_password, create_access_token, SECRET_KEY, ALGORITHM
+from database import Base, engine, get_db
+from models import UserDB, UserRegister, UserLogin, TokenResponse
+from security import hash_password, verify_password, create_access_token, SECRET_KEY, ALGORITHM
 
 # Database tables create karna
 Base.metadata.create_all(bind=engine)
