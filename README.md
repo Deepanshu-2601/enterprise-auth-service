@@ -11,9 +11,8 @@ A production-ready RESTful authentication and authorization microservice built w
 
 ## 🚀 Live Demo & Documentation
 
-- **Interactive Swagger UI:** [https://enterprise-auth-service-kdig.onrender.com/docs](https://enterprise-auth-service-kdig.onrender.com/docs)
-- **Service Base URL:** [https://enterprise-auth-service-kdig.onrender.com](https://enterprise-auth-service-kdig.onrender.com/docs)
-
+- **Interactive Swagger UI:**[https://enterprise-auth-service-kd1g.onrender.com/docs](https://enterprise-auth-service-kd1g.onrender.com/docs)
+- **Service Base URL:**[https://enterprise-auth-service-kd1g.onrender.com/docs](https://enterprise-auth-service-kd1g.onrender.com)
 ---
 
 ## ✨ Features
